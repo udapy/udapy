@@ -1,6 +1,6 @@
-### Hi, I'm Uday Phalak, Software Engineer - Machine Learning and Entrepreneur, based in OR, USA.
+### Hi, I'm Uday Phalak, Software Engineer - Machine Learning and Entrepreneur.
 
-## Talkinig about personal stuff,
+#### Talkinig about personal stuff,
 - 🏢 I’m currently leading to build disaster community enagagement platform at Hazadapt Inc.
 - 🌱 I’m currently learning go, react-native, kubeflow, ml-piplines
 - 👯 I’m looking to collaborate on kaggle competitions, open source research projects 
@@ -10,12 +10,12 @@
 - 📫 Reach me: twitter.com/flute_ud
 - ⚡ Fun fact: I hold level 3 pantjali yoga degree.
 
-## Research Interest and Work
+#### Research Interest and Work
 - 🔏 TrustworthyML
 - 🔥 Advesarial Machine Learning
 - 👐 UX process
 
-## Intersting groups I'm part of,
+#### Intersting groups I'm part of,
 - climatechange.ai
 - huggingFace
 - AutoGluon
