@@ -1,4 +1,5 @@
-### Hi, I'm Uday Phalak, Software Engineer - Machine Learning and Entrepreneur.
+### Hi 👋, I'm Uday Phalak
+### Software Engineer - Machine Learning and Entrepreneur.
 
 #### Talkinig about personal stuff,
 - 🏢 I’m currently leading to build disaster community enagagement platform at Hazadapt Inc.
