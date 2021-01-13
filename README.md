@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with building technical teams, data engineering, data science.
 - 📑 I love to read papers on arxiv and paper with codes.
 - 💬 Ping me about product development, design thinking, deep learning
-- 📫 Reach me: twitter.com/flute_ud
+- 📫 Reach me: [twitter.com/flute_ud](https://twitter.com/flute_ud)
 - ⚡ Fun fact: I hold level 3 pantjali yoga degree.
 
 #### Research Interest and Work
