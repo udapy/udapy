@@ -18,8 +18,8 @@
 - 👐 UX process
 
 #### Intersting groups I'm part of,
-- climatechange.ai
-- huggingFace
-- AutoGluon
-- ml-collective
-- openmined
+- [climatechange.ai](https://www.climatechange.ai/)
+- [huggingFace](https://huggingface.co/)
+- [AutoGluon](https://auto.gluon.ai/stable/index.html)
+- [ml-collective](http://mlcollective.org/)
+- [openmined](https://www.openmined.org/)
