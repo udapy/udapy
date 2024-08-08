@@ -14,8 +14,10 @@
 - ⚡ Fun fact: I hold level 3 pantjali yoga certication and instructor.
 
 #### Research Interest and Work
-- 🔏 TrustworthyML
 - 🔥 Advesarial Machine Learning
+- 🏥 Healthcare ML
+- 🦺 AI in Emergency Vertical
+- 🔏 TrustworthyML
 - 👐 UX process
 
 #### Intersting groups I'm part of,
