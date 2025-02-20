@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Uday Phalak, 
 #### Machine Learning Engineer, Entrepreneur 
-#### Machine Learning | Deep Learning | RecSys | VLLM
+#### Deep Learning | NLP | RecSys/Personalizaton | LLMOPS
 
 #### Talking about personal stuff,
 - 🏢 I’m currently leading to build disaster community enagagement platform at Hazadapt Inc.
-- 🌱 I’m currently learning about finetuning LLM, VLLM and ML in healthcare
+- 🌱 I’m currently learning about how to evaluate data for LLM, finetuning LLM, and hands on Distributed LLMOPS
 - 🚀 Leading MLOps Community at Portland, Oregon
 - 👯 I’m looking to collaborate on open source research projects 
 - 🤔 I’m looking for help with building technical teams, data engineering, data science.
@@ -21,7 +21,6 @@
 - 👐 UX process
 
 #### Intersting groups I'm part of,
-- [climatechange.ai](https://www.climatechange.ai/)
-- [huggingFace](https://huggingface.co/)
+- [mlops-community](https://mlops.community/) - chapter lead
 - [ml-collective](http://mlcollective.org/)
-- [openmined](https://www.openmined.org/)
+
